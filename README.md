@@ -4,6 +4,7 @@ Expect to apply the basic structure of HTML5
 for the design of a web page. Basic structure
 is related to, but not limited to the following:
 
+<!--  
 <!Doctype html>
 <html>
     <head>
@@ -18,3 +19,4 @@ is related to, but not limited to the following:
         <a></a>
     </body>
 </html>
+-->
