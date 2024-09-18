@@ -1,0 +1,33 @@
+*{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-decoration: none;
+margin-left: 10%;
+background-color: beige;
+}
+
+ul{
+    list-style-type:none;
+}
+
+a{
+    color:brown;
+}
+
+h1{
+    padding-left: 20%; 
+   
+
+}
+
+.ingredients li{
+    color:crimson;
+    font-weight: bold;
+}
+
+img{
+    padding-left: 18%;
+}
+
+em{
+    color:chocolate;
+}
