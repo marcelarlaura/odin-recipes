@@ -2,20 +2,23 @@
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 text-decoration: none;
 margin-left: 10%;
-background-color: beige;
 }
 
-ul{
+body{
+    background-color: beige;
+}
+
+.menu{
     list-style-type:none;
+    margin: auto auto 20px auto;
 }
 
 a{
     color:brown;
 }
 
-h1{
-    padding-left: 20%; 
-   
+.main{
+    padding: 8px; 
 
 }
 
@@ -31,3 +34,24 @@ img{
 em{
     color:chocolate;
 }
+
+.card {
+    border-style: dashed solid;
+    border-width: 10px;
+    border-color:darkslategray cadetblue;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 25%;
+}
+
+.cardTwo {
+    border: 5px dotted black;
+    margin-right: 25%;
+}
+
+p, ol{
+    margin: 10px 80px;
+    text-align: justify;
+}
+
+
